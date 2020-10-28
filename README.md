@@ -1,3 +1,5 @@
 # -SIDE_01-_python_Email_Sender
 
-## Just a simple email sender.
+## Practice Project - course project;
+## Side Project - personal project;
+## School Project - homework project;
