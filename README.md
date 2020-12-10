@@ -1,4 +1,4 @@
-# -SIDE_01-_python_Email_Sender
+# side-01-python-email-sender
 
 ## Practice Project - course project;
 ## Side Project - personal project;
